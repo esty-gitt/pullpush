@@ -1,1 +1,3 @@
-const b=()=>{}
+const b=()=>{
+    return "sari"
+}
